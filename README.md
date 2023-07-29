@@ -9,8 +9,10 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
     - [Chat Bots Interface](#chat-bot)
     - [Fine Tuning](#fine-tuning)
     - [Building Applications](#building-applications)
+    - [Prompting](#prompting)
     - [Vector Databases](#vector-databases)
     - [Serving](#serving)
+    - [Production](#production)
     - [Tools Made From LLMs](#tools-made-from-llms)
     - [Tutorials](#tutorials)
     - [Blogs](#blogs)
@@ -22,11 +24,23 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
 
 ## Data
 
-- [Auto Label](https://github.com/refuel-ai/autolabel)
+- Get Your Own Data
+    - [Auto Label](https://github.com/refuel-ai/autolabel)
+- Instruction Dataset
+    - [Flan-Mini](https://huggingface.co/datasets/declare-lab/flan-mini) by Declare-Lab
 
 ## Pre-trained LLMs
 
-- [OpenLlama](https://github.com/openlm-research/open_llama)
+- LM Trained
+    - [Llama-2](https://www.interconnects.ai/p/llama-2-from-meta)
+    - [OpenLlama](https://github.com/openlm-research/open_llama)
+    - [tiiuae/falcon-7b](https://huggingface.co/tiiuae/falcon-7b)
+        - 1,500B tokens of RefinedWeb enhanced with curated corpora
+        - Apache 2.0 License
+- Instruction Tuned
+    - [flacuna](https://github.com/declare-lab/flacuna)
+- Chat
+    - [Llama-2 Chat](https://www.interconnects.ai/p/llama-2-from-meta)
 
 ## Chat Bots ([home](#awesome-llm))
 
@@ -49,6 +63,7 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
 ## Prompting
 
 - ReAct: Reasoning and Acting [Paper](https://arxiv.org/pdf/2210.03629.pdf)
+- [Legal Prompt Engineering](https://www.legalpromptguide.com/1.-introduction-to-legal-prompt-engineering-lpe) 
 
 ## Vector Databases ([home](#awesome-llm))
 
@@ -59,13 +74,20 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
 
 - [Ray Serve](https://docs.ray.io/en/latest/serve/index.html)
 
-## Tools Made From LLMs
+## Production
+
+- Monitoring
+    - With LangKit [Video](https://www.youtube.com/watch?v=DLJ8m3wMJrs)
+
+## Tools Made Using LLMs
 
 - " label, clean and enrich text datasets with any Large Language Models (LLM) of your choice." [Link](https://github.com/refuel-ai/autolabel)
 
 ## Tutorials ([home](#awesome-llm))
 
 - Building an LLM open source search engine in 100 lines using LangChain and Ray [Link](https://www.anyscale.com/blog/llm-open-source-search-engine-langchain-ray)
+- [Getting Started With LlamaIndex](https://zilliz.com/blog/getting-started-with-llamaindex)
+- [OpenAI API Cookbook](https://github.com/openai/openai-cookbook/tree/main)
 
 ## Blogs
 
@@ -78,8 +100,11 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
     - [Maximizing the Potential of LLMs: Using Vector Databases](https://www.ruxu.dev/articles/ai/vector-stores/)
 - Building Applications:
     - [Leveraging FastAPI, OpenAI, and SQLAlchemy for Natural Language SQL Queries](https://medium.com/@lgutierrwr/leveraging-fastapi-openai-and-sqlalchemy-for-natural-language-sql-queries-89052547289f)
+    - [Creating a Chatbot with FalconAI LangChain and Chainlit](https://www.analyticsvidhya.com/blog/2023/07/creating-a-chatbot-with-falconai-langchain-and-chainlit/#h-creating-the-chat-application)
 
 ## Precautionary Tale
 
+- [Jul 2023 Is GPT-4 Getting Worse Overtime?](https://www.aisnakeoil.com/p/is-gpt-4-getting-worse-over-time?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_LD-sMoG8wc3nypgPhSFaqdIgmhEtkTsUPeRqnSpnO5nOjqOq4AilthqCKjeO3qVrdPqWB)
+    - [Paper](https://arxiv.org/abs/2307.09009)
 - [June 2023 Google Tells Employees to Stay Away from Its Own Bard Chatbot](https://gizmodo.com/google-tells-employees-to-stay-away-from-its-bard-chatb-1850542824)
 - [April 2023 ‘hallucination problems’ still plague A.I. tech](https://fortune.com/2023/04/17/google-ceo-sundar-pichai-artificial-intelligence-bard-hallucinations-unsolved/)
