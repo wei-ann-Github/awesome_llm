@@ -126,11 +126,11 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
 
 ## Precautionary Tale ([home](#awesome-llm))
 
-- [Jul 2023 Is GPT-4 Getting Worse Overtime?](https://www.aisnakeoil.com/p/is-gpt-4-getting-worse-over-time?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_LD-sMoG8wc3nypgPhSFaqdIgmhEtkTsUPeRqnSpnO5nOjqOq4AilthqCKjeO3qVrdPqWB)
+- August 2023 [Cyber Threats](https://www.bleepingcomputer.com/news/security/cybercriminals-train-ai-chatbots-for-phishing-malware-attacks/)
+- Jul 2023 [Is GPT-4 Getting Worse Overtime?](https://www.aisnakeoil.com/p/is-gpt-4-getting-worse-over-time?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_LD-sMoG8wc3nypgPhSFaqdIgmhEtkTsUPeRqnSpnO5nOjqOq4AilthqCKjeO3qVrdPqWB)
     - [Paper](https://arxiv.org/abs/2307.09009)
-- [June 2023 Google Tells Employees to Stay Away from Its Own Bard Chatbot](https://gizmodo.com/google-tells-employees-to-stay-away-from-its-bard-chatb-1850542824)
-- [April 2023 ‘hallucination problems’ still plague A.I. tech](https://fortune.com/2023/04/17/google-ceo-sundar-pichai-artificial-intelligence-bard-hallucinations-unsolved/)
-- [Cyber Threats](https://www.bleepingcomputer.com/news/security/cybercriminals-train-ai-chatbots-for-phishing-malware-attacks/)
+- June 2023 [Google Tells Employees to Stay Away from Its Own Bard Chatbot](https://gizmodo.com/google-tells-employees-to-stay-away-from-its-bard-chatb-1850542824)
+- April 2023 ['hallucination problems' still plague A.I. tech](https://fortune.com/2023/04/17/google-ceo-sundar-pichai-artificial-intelligence-bard-hallucinations-unsolved/)
 
 ## Others ([home](#awesome-llm))
 
