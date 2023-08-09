@@ -54,6 +54,7 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
 
 ## Fine Tuning ([home](#awesome-llm))
 
+- [Huggingface PEFT methods](https://github.com/huggingface/peft)
 - [LOMO: LOw-Memory Optimization](https://github.com/OpenLMLab/LOMO)
     - 3 different approaches - LOMO, LoRA, and LoRA + LOMO.
 - [Making evaluating and fine-tuning LLaMA models with low-rank adaptation (LoRA) easy.](https://github.com/zetavg/LLaMA-LoRA-Tuner)
