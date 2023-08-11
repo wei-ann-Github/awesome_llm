@@ -18,7 +18,7 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
     - [Courses](#courses-home)
     - [Blogs](#blogs-home)
     - [Precautionary Tale](#precautionary-tale-home)
-    = [Others](#others-home)
+    - [Others](#others-home)
 
 ## General ([home](#awesome-llm))
 
@@ -54,6 +54,7 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
 
 ## Fine Tuning ([home](#awesome-llm))
 
+- Article [Fine-tune Llama 2 with DPO](https://huggingface.co/blog/dpo-trl)
 - [Huggingface PEFT methods](https://github.com/huggingface/peft)
 - [LOMO: LOw-Memory Optimization](https://github.com/OpenLMLab/LOMO)
     - 3 different approaches - LOMO, LoRA, and LoRA + LOMO.
@@ -106,6 +107,7 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
 
 ## Tutorials ([home](#awesome-llm))
 
+- [ChatGPT prompts: How to optimize for sales, marketing, writing and more](https://techcrunch.com/2023/06/28/chatgpt-prompts-how-to-optimize-for-sales-marketing-writing-and-more/)
 - Building an LLM open source search engine in 100 lines using LangChain and Ray [Link](https://www.anyscale.com/blog/llm-open-source-search-engine-langchain-ray)
 - [Getting Started With LlamaIndex](https://zilliz.com/blog/getting-started-with-llamaindex)
 - [OpenAI API Cookbook](https://github.com/openai/openai-cookbook/tree/main)
@@ -126,7 +128,7 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
 
 ## Precautionary Tale ([home](#awesome-llm))
 
-- August 2023 [Cyber Threats](https://www.bleepingcomputer.com/news/security/cybercriminals-train-ai-chatbots-for-phishing-malware-attacks/)
+- August 2023 ['Hypnotized' ChatGPT and Bard Will Convince Users to Pay Ransoms and Drive Through Red Lights](https://gizmodo.com/chatgpt-google-bard-hypnotized-bad-code-advice-1850718070)
 - Jul 2023 [Is GPT-4 Getting Worse Overtime?](https://www.aisnakeoil.com/p/is-gpt-4-getting-worse-over-time?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_LD-sMoG8wc3nypgPhSFaqdIgmhEtkTsUPeRqnSpnO5nOjqOq4AilthqCKjeO3qVrdPqWB)
     - [Paper](https://arxiv.org/abs/2307.09009)
 - June 2023 [Google Tells Employees to Stay Away from Its Own Bard Chatbot](https://gizmodo.com/google-tells-employees-to-stay-away-from-its-bard-chatb-1850542824)
@@ -134,4 +136,6 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
 
 ## Others ([home](#awesome-llm))
 
+- August 2023 [Meet the Brains Behind the Malware-Friendly AI Chat Service ‘WormGPT’](https://krebsonsecurity.com/2023/08/meet-the-brains-behind-the-malware-friendly-ai-chat-service-wormgpt/)
+- August 2023 [Cyber Threats](https://www.bleepingcomputer.com/news/security/cybercriminals-train-ai-chatbots-for-phishing-malware-attacks/)
 - 03 Aug 2023 [ChatGPT Release Notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
