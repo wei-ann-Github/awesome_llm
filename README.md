@@ -28,12 +28,16 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
 
 - Get Your Own Data
     - [Auto Label](https://github.com/refuel-ai/autolabel)
-- Instruction Dataset
+    - [PromptSource](https://github.com/bigscience-workshop/promptsource) provides the tools to create, and share natural language prompts 
+- Instruction/Prompt Dataset
     - [Flan-Mini](https://huggingface.co/datasets/declare-lab/flan-mini) by Declare-Lab
+    - original Flan 2021 and Flan Collection [Link](https://github.com/google-research/flan)
 
 ## Pre-trained LLMs ([home](#awesome-llm))
 
 - LM Trained
+    - [CodeLlama](https://github.com/facebookresearch/codellama)
+    - [CodeLlama-Python](https://github.com/facebookresearch/codellama)
     - [Llama-2](https://www.interconnects.ai/p/llama-2-from-meta)
         - [Understanding LLaMA-2 Architecture & its Ginormous Impact on GenAI](https://medium.com/towards-generative-ai/understanding-llama-2-architecture-its-ginormous-impact-on-genai-e278cb81bd5c)
     - [OpenLlama](https://github.com/openlm-research/open_llama)
@@ -42,6 +46,7 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
         - Apache 2.0 License
 - Instruction Tuned
     - [flacuna](https://github.com/declare-lab/flacuna)
+    - [CodeLlama-Instruct](https://github.com/facebookresearch/codellama)
 - Chat
     - [Llama-2 Chat](https://www.interconnects.ai/p/llama-2-from-meta)
 
@@ -54,11 +59,16 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
 
 ## Fine Tuning ([home](#awesome-llm))
 
+- github [TRL](https://github.com/huggingface/trl), Transformer Reinforcement Learning
 - Article [Fine-tune Llama 2 with DPO](https://huggingface.co/blog/dpo-trl)
-- [Huggingface PEFT methods](https://github.com/huggingface/peft)
-- [LOMO: LOw-Memory Optimization](https://github.com/OpenLMLab/LOMO)
+- github [Huggingface PEFT methods](https://github.com/huggingface/peft)
+- github [LOMO: LOw-Memory Optimization](https://github.com/OpenLMLab/LOMO)
     - 3 different approaches - LOMO, LoRA, and LoRA + LOMO.
-- [Making evaluating and fine-tuning LLaMA models with low-rank adaptation (LoRA) easy.](https://github.com/zetavg/LLaMA-LoRA-Tuner)
+- github [Making evaluating and fine-tuning LLaMA models with low-rank adaptation (LoRA) easy.](https://github.com/zetavg/LLaMA-LoRA-Tuner)
+
+### Courses
+
+- [Finetuning LLMs with LAMINI](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
 
 ## Building Applications ([home](#awesome-llm))
 
@@ -91,6 +101,8 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
 
 ## Production ([home](#awesome-llm))
 
+- PyTest for LLM
+    - offline evaluations on your LLM pipelines [github](https://github.com/confident-ai/deepeval)
 - Monitoring
     - With LangKit [Video](https://www.youtube.com/watch?v=DLJ8m3wMJrs)
 
@@ -107,6 +119,9 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
 
 ## Tutorials ([home](#awesome-llm))
 
+- [OPTIMIZING PRE-TRAINED MODELS: A GUIDE TO PARAMETER-EFFICIENT FINE-TUNING (PEFT)](https://www.leewayhertz.com/parameter-efficient-fine-tuning/)
+- [Understanding Prompt Tuning And Prefix Tuning](https://magazine.sebastianraschka.com/p/understanding-parameter-efficient)
+- [Instruction fine-tuning Llama 2 with PEFT’s QLoRa method](https://medium.com/@ud.chandra/instruction-fine-tuning-llama-2-with-pefts-qlora-method-d6a801ebb19)
 - [ChatGPT prompts: How to optimize for sales, marketing, writing and more](https://techcrunch.com/2023/06/28/chatgpt-prompts-how-to-optimize-for-sales-marketing-writing-and-more/)
 - Building an LLM open source search engine in 100 lines using LangChain and Ray [Link](https://www.anyscale.com/blog/llm-open-source-search-engine-langchain-ray)
 - [Getting Started With LlamaIndex](https://zilliz.com/blog/getting-started-with-llamaindex)
@@ -125,6 +140,8 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
     - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
     - [Leveraging FastAPI, OpenAI, and SQLAlchemy for Natural Language SQL Queries](https://medium.com/@lgutierrwr/leveraging-fastapi-openai-and-sqlalchemy-for-natural-language-sql-queries-89052547289f)
     - [Creating a Chatbot with FalconAI LangChain and Chainlit](https://www.analyticsvidhya.com/blog/2023/07/creating-a-chatbot-with-falconai-langchain-and-chainlit/#h-creating-the-chat-application)
+- Topic Modeling
+    - [Topic Modeling with Llama-2](https://towardsdatascience.com/topic-modeling-with-llama-2-85177d01e174)
 
 ## Precautionary Tale ([home](#awesome-llm))
 
