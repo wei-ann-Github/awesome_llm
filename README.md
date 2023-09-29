@@ -11,6 +11,7 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
     - [Building Applications](#building-applications-home)
     - [Prompting](#prompting-home)
     - [Vector Databases](#vector-databases-home)
+    - [RAG](#rag)
     - [Serving](#serving-home)
     - [Production](#production-home)
     - [Tools Made Using LLMs](#tools-made-using-llms-home)
@@ -40,6 +41,8 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
     - [CodeLlama-Python](https://github.com/facebookresearch/codellama)
     - [Llama-2](https://www.interconnects.ai/p/llama-2-from-meta)
         - [Understanding LLaMA-2 Architecture & its Ginormous Impact on GenAI](https://medium.com/towards-generative-ai/understanding-llama-2-architecture-its-ginormous-impact-on-genai-e278cb81bd5c)
+    - [Mistral-7B-v0.1](https://huggingface.co/mistralai/Mistral-7B-v0.1)
+        - [The best 7B model to date, Apache 2.0](https://mistral.ai/news/announcing-mistral-7b/)
     - [OpenLlama](https://github.com/openlm-research/open_llama)
     - [tiiuae/falcon-7b](https://huggingface.co/tiiuae/falcon-7b)
         - 1,500B tokens of RefinedWeb enhanced with curated corpora
@@ -47,6 +50,8 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
 - Instruction Tuned
     - [flacuna](https://github.com/declare-lab/flacuna)
     - [CodeLlama-Instruct](https://github.com/facebookresearch/codellama)
+    - [Mistral-7B-Instruct-v0.1](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1)
+        - [The best 7B model to date, Apache 2.0](https://mistral.ai/news/announcing-mistral-7b/)
 - Chat
     - [Llama-2 Chat](https://www.interconnects.ai/p/llama-2-from-meta)
 
@@ -95,6 +100,12 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
 - [HyperDB](https://github.com/jdagdelen/hyperdb)
 - Facebook AI Similarity Search, FAISS
 
+## RAG ([home](#awesome-llm))
+
+RAG - Retrieval Augmented Generation
+
+- Building RAG-based LLM Applications for Production (Part 1)[https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1]
+
 ## Serving ([home](#awesome-llm))
 
 - [Ray Serve](https://docs.ray.io/en/latest/serve/index.html)
@@ -137,6 +148,7 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
     - [Vector Databases: The Unseen Heroes of LLM and CV Applications](https://pmanrique001.medium.com/vector-databases-the-unseen-heroes-of-llm-and-cv-applications-c2246d7cf29f)
     - [Maximizing the Potential of LLMs: Using Vector Databases](https://www.ruxu.dev/articles/ai/vector-stores/)
 - Building Applications:
+    - [How to build a Llama 2 chatbot](https://blog.streamlit.io/how-to-build-a-llama-2-chatbot/)
     - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
     - [Leveraging FastAPI, OpenAI, and SQLAlchemy for Natural Language SQL Queries](https://medium.com/@lgutierrwr/leveraging-fastapi-openai-and-sqlalchemy-for-natural-language-sql-queries-89052547289f)
     - [Creating a Chatbot with FalconAI LangChain and Chainlit](https://www.analyticsvidhya.com/blog/2023/07/creating-a-chatbot-with-falconai-langchain-and-chainlit/#h-creating-the-chat-application)
