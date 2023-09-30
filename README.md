@@ -11,7 +11,7 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
     - [Building Applications](#building-applications-home)
     - [Prompting](#prompting-home)
     - [Vector Databases](#vector-databases-home)
-    - [RAG](#rag)
+    - [RAG](#rag-home)
     - [Serving](#serving-home)
     - [Production](#production-home)
     - [Tools Made Using LLMs](#tools-made-using-llms-home)
@@ -64,6 +64,7 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
 
 ## Fine Tuning ([home](#awesome-llm))
 
+- Article [LoRA finetuning In-Depth Analysis with Llama2](https://www.anyscale.com/blog/fine-tuning-llms-lora-or-full-parameter-an-in-depth-analysis-with-llama-2)
 - github [TRL](https://github.com/huggingface/trl), Transformer Reinforcement Learning
 - Article [Fine-tune Llama 2 with DPO](https://huggingface.co/blog/dpo-trl)
 - github [Huggingface PEFT methods](https://github.com/huggingface/peft)
@@ -104,7 +105,8 @@ The myraid of repos, articles, tutorials etc. on LLMs is truly overwhelming. In 
 
 RAG - Retrieval Augmented Generation
 
-- Building RAG-based LLM Applications for Production (Part 1)[https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1]
+- Building RAG-based LLM Applications for Production ([Part 1](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1))
+- RAG using [LangChain](https://deci.ai/blog/retrieval-augmented-generation-using-langchain/)
 
 ## Serving ([home](#awesome-llm))
 
@@ -117,7 +119,7 @@ RAG - Retrieval Augmented Generation
 - Monitoring
     - With LangKit [Video](https://www.youtube.com/watch?v=DLJ8m3wMJrs)
 
-### Courses
+### Courses ([home](#awesome-llm))
 
 - Evaluation
     - [Evaluating and Debugging Generative AI](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/)
